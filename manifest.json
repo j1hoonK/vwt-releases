@@ -1,0 +1,13 @@
+{
+  "releases": [
+    {
+      "version": "261118.03v",
+      "installer_url": "https://github.com/j1hoonK/vwt-releases/releases/download/v261118.03v/VWT-Setup-261118.03v-win-x64.exe",
+      "sha256": "f7267bba6a40434743b566311425a6f8a87c43db2849f159ef12a62da4bf8032",
+      "commits": [
+        "VWT 설치파일 공개 배포 및 자동 업데이트 채널 연결"
+      ],
+      "source_sha": "ceb0cc04316499361fb2e6e0de866707306ef1d7"
+    }
+  ]
+}
