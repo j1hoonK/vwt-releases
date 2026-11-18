@@ -26,6 +26,15 @@
         "윈도우 자동 업데이트 진행창 취소 오판 및 설치 실행 오류 수정"
       ],
       "source_sha": "34da8a7433370bf6f1f2afd46997f921a3ebcbdc"
+    },
+    {
+      "version": "261118.06v",
+      "installer_url": "https://github.com/j1hoonK/vwt-releases/releases/download/v261118.06v/VWT-Setup-261118.06v-win-x64.exe",
+      "sha256": "a6aa83ef9fd74293729784bd60510e469c37695c238df15bbe74ca6d7265e1dc",
+      "commits": [
+        "파일 전송 하위 탭 여백을 스크립트 탭과 통일"
+      ],
+      "source_sha": "43c2f551765140b2e4fcabb344db78f3c0ce0ad6"
     }
   ]
 }
