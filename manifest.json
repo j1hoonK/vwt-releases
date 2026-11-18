@@ -53,6 +53,15 @@
         "서버 트리 편집 위치 및 전체 선택 현황 복원과 버전 복귀 관리 개선"
       ],
       "source_sha": "bd015af85b6bdd4b4ef426c2efd120a7c1530be5"
+    },
+    {
+      "version": "261119.02v",
+      "installer_url": "https://github.com/j1hoonK/vwt-releases/releases/download/v261119.02v/VWT-Setup-261119.02v-win-x64.exe",
+      "sha256": "bd6dbf7a2ac564f4a14c5a3b6ffab2d05cce08e5bd4918985e485a842d4efd55",
+      "commits": [
+        "윈도우 배포 압축 수준 및 빌드 캐시 최적화"
+      ],
+      "source_sha": "023c9fbedcf09dc1ca9d11c40a5b6b12190e567c"
     }
   ]
 }
