@@ -8,6 +8,15 @@
         "VWT 설치파일 공개 배포 및 자동 업데이트 채널 연결"
       ],
       "source_sha": "ceb0cc04316499361fb2e6e0de866707306ef1d7"
+    },
+    {
+      "version": "261118.04v",
+      "installer_url": "https://github.com/j1hoonK/vwt-releases/releases/download/v261118.04v/VWT-Setup-261118.04v-win-x64.exe",
+      "sha256": "6c66fdfcdcb5af3913f15f733bf95c9df5b90e85e4b0adcac0e935c123f32647",
+      "commits": [
+        "윈도우 바로가기 아이콘 참조 경로 수정"
+      ],
+      "source_sha": "ecf6e517d9f1f733404261de316709983fe369bf"
     }
   ]
 }
