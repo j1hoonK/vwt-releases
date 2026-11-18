@@ -35,6 +35,15 @@
         "파일 전송 하위 탭 여백을 스크립트 탭과 통일"
       ],
       "source_sha": "43c2f551765140b2e4fcabb344db78f3c0ce0ad6"
+    },
+    {
+      "version": "261118.07v",
+      "installer_url": "https://github.com/j1hoonK/vwt-releases/releases/download/v261118.07v/VWT-Setup-261118.07v-win-x64.exe",
+      "sha256": "295c29510a8c04a72f25e8e65d237680e341236bb285f05a8d091f4750a1f43d",
+      "commits": [
+        "업데이트 설치 전환 안내 및 원격 접속·서버 트리 배치 개선"
+      ],
+      "source_sha": "6ef053e82f639a39b3b3676cca1bf3d762398014"
     }
   ]
 }
