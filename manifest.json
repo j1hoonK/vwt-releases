@@ -44,6 +44,15 @@
         "업데이트 설치 전환 안내 및 원격 접속·서버 트리 배치 개선"
       ],
       "source_sha": "6ef053e82f639a39b3b3676cca1bf3d762398014"
+    },
+    {
+      "version": "261119.01v",
+      "installer_url": "https://github.com/j1hoonK/vwt-releases/releases/download/v261119.01v/VWT-Setup-261119.01v-win-x64.exe",
+      "sha256": "d9016dd6be0e2c66ff4dc8c1fb5b8630d663d3394d00bc95b55a8b74fc8a1f79",
+      "commits": [
+        "서버 트리 편집 위치 및 전체 선택 현황 복원과 버전 복귀 관리 개선"
+      ],
+      "source_sha": "bd015af85b6bdd4b4ef426c2efd120a7c1530be5"
     }
   ]
 }
