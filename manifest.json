@@ -17,6 +17,15 @@
         "윈도우 바로가기 아이콘 참조 경로 수정"
       ],
       "source_sha": "ecf6e517d9f1f733404261de316709983fe369bf"
+    },
+    {
+      "version": "261118.05v",
+      "installer_url": "https://github.com/j1hoonK/vwt-releases/releases/download/v261118.05v/VWT-Setup-261118.05v-win-x64.exe",
+      "sha256": "eeb6cc38c80eefab3228040d8e1417a13354386770e875b577b3ac2968b70bbe",
+      "commits": [
+        "윈도우 자동 업데이트 진행창 취소 오판 및 설치 실행 오류 수정"
+      ],
+      "source_sha": "34da8a7433370bf6f1f2afd46997f921a3ebcbdc"
     }
   ]
 }
