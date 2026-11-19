@@ -136,6 +136,15 @@
         "초기 실행 시 샘플 사이트 자동 생성 제거"
       ],
       "source_sha": "492383279d7bfefa68d5cec0a702562a60d511f6"
+    },
+    {
+      "version": "261119.11v",
+      "installer_url": "https://github.com/j1hoonK/vwt-releases/releases/download/v261119.11v/VWT-Setup-261119.11v-win-x64.exe",
+      "sha256": "1f96ff5ba44e7264e09826998adab5314371d53cff9c424ff6ab632403761f2b",
+      "commits": [
+        "원격접속 탭 제목과 닫기 버튼 간격 정렬 개선"
+      ],
+      "source_sha": "331348c45d53d2b4d5b9585314d478d34a0fe4dd"
     }
   ]
 }
