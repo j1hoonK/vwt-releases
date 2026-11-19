@@ -127,6 +127,15 @@
         "터미널 탭과 분할 화면의 불필요한 테두리 제거"
       ],
       "source_sha": "f8316f7a0fe7ff35da81e424dfb68d0d907f1744"
+    },
+    {
+      "version": "261119.10v",
+      "installer_url": "https://github.com/j1hoonK/vwt-releases/releases/download/v261119.10v/VWT-Setup-261119.10v-win-x64.exe",
+      "sha256": "d30ee520d49e4d90f796dc45b66aed8e114fa5d83361358970970c56050335c6",
+      "commits": [
+        "초기 실행 시 샘플 사이트 자동 생성 제거"
+      ],
+      "source_sha": "492383279d7bfefa68d5cec0a702562a60d511f6"
     }
   ]
 }
