@@ -154,6 +154,17 @@
         "원격접속 탭 닫기 버튼 깜빡임 제거"
       ],
       "source_sha": "fffdda4346448c1b7a9ccce3d66d0f66cbc8a82d"
+    },
+    {
+      "version": "261119.13v",
+      "installer_url": "https://github.com/j1hoonK/vwt-releases/releases/download/v261119.13v/VWT-Setup-261119.13v-win-x64.exe",
+      "sha256": "17c778f5117f484867b645b2e4c74febaeff6d35371b0561e99371771ae7b408",
+      "commits": [
+        "Windows IDM·EMap 서버 버전 조회 지원",
+        "자동 업데이트 다운로드 중단 및 취소 오류 수정",
+        "자동 업데이트 버전 확인 시 캐시 오판정 방지"
+      ],
+      "source_sha": "ac68cd89ce8d25be9f5afb8c19beec117b1032c3"
     }
   ]
 }
