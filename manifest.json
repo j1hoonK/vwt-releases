@@ -90,6 +90,15 @@
         "업데이트 진행 표시와 사이트 선택 및 서버별 데이터 이전 개선"
       ],
       "source_sha": "51f646841c0e15d867359c2c372d7c884348179c"
+    },
+    {
+      "version": "261119.06v",
+      "installer_url": "https://github.com/j1hoonK/vwt-releases/releases/download/v261119.06v/VWT-Setup-261119.06v-win-x64.exe",
+      "sha256": "1f95b9b88407ae30f15c4b91894f479a5b35741f0857de4f6840d3faff864367",
+      "commits": [
+        "사이트 선택창 자동 너비 및 초성 검색 개선"
+      ],
+      "source_sha": "f7b5e57bf9f72af86b5842f4b9a15ba3bfc76474"
     }
   ]
 }
