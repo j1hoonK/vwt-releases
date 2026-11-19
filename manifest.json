@@ -99,6 +99,15 @@
         "사이트 선택창 자동 너비 및 초성 검색 개선"
       ],
       "source_sha": "f7b5e57bf9f72af86b5842f4b9a15ba3bfc76474"
+    },
+    {
+      "version": "261119.07v",
+      "installer_url": "https://github.com/j1hoonK/vwt-releases/releases/download/v261119.07v/VWT-Setup-261119.07v-win-x64.exe",
+      "sha256": "50912fdca51910973c3effe38cf4ef6cae738bfb40095984113fee51523dfa4c",
+      "commits": [
+        "원격접속 탭 간격 및 터미널 전체 복사 개선"
+      ],
+      "source_sha": "c07115e76d6bc7303153d41490806de88a00e33f"
     }
   ]
 }
