@@ -145,6 +145,15 @@
         "원격접속 탭 제목과 닫기 버튼 간격 정렬 개선"
       ],
       "source_sha": "331348c45d53d2b4d5b9585314d478d34a0fe4dd"
+    },
+    {
+      "version": "261119.12v",
+      "installer_url": "https://github.com/j1hoonK/vwt-releases/releases/download/v261119.12v/VWT-Setup-261119.12v-win-x64.exe",
+      "sha256": "09361d1d4fc6b91465c0cc25a4c9325f038b0deee4994ba4e486612017450a9a",
+      "commits": [
+        "원격접속 탭 닫기 버튼 깜빡임 제거"
+      ],
+      "source_sha": "fffdda4346448c1b7a9ccce3d66d0f66cbc8a82d"
     }
   ]
 }
