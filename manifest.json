@@ -117,6 +117,16 @@
         "원격접속 선택 탭 디자인과 전체 복사 단축키 개선"
       ],
       "source_sha": "c75ecb5f22ceb044a16a6359be60a9641e53e574"
+    },
+    {
+      "version": "261119.09v",
+      "installer_url": "https://github.com/j1hoonK/vwt-releases/releases/download/v261119.09v/VWT-Setup-261119.09v-win-x64.exe",
+      "sha256": "a078e04ab6ab1e7d239d5ddcda2eae332c256724409cda697962e15348ab7f9c",
+      "commits": [
+        "데이터 이전 사이트 단위 선택으로 간소화",
+        "터미널 탭과 분할 화면의 불필요한 테두리 제거"
+      ],
+      "source_sha": "f8316f7a0fe7ff35da81e424dfb68d0d907f1744"
     }
   ]
 }
