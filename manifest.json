@@ -81,6 +81,15 @@
         "파일 전송 완료 알림 및 진행률 색상과 중지 응답 개선"
       ],
       "source_sha": "73607463c0755dec4513ba33ce6b1f783fa09db8"
+    },
+    {
+      "version": "261119.05v",
+      "installer_url": "https://github.com/j1hoonK/vwt-releases/releases/download/v261119.05v/VWT-Setup-261119.05v-win-x64.exe",
+      "sha256": "7cd8d2c7241153299acd57b9a1483b404d44f90b91f29ce7d96edc1e4b5db16b",
+      "commits": [
+        "업데이트 진행 표시와 사이트 선택 및 서버별 데이터 이전 개선"
+      ],
+      "source_sha": "51f646841c0e15d867359c2c372d7c884348179c"
     }
   ]
 }
