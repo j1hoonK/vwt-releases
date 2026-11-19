@@ -165,6 +165,15 @@
         "자동 업데이트 버전 확인 시 캐시 오판정 방지"
       ],
       "source_sha": "ac68cd89ce8d25be9f5afb8c19beec117b1032c3"
+    },
+    {
+      "version": "261119.14v",
+      "installer_url": "https://github.com/j1hoonK/vwt-releases/releases/download/v261119.14v/VWT-Setup-261119.14v-win-x64.exe",
+      "sha256": "0d24cd13ba78a513ae9741356c30b375fe62c26f9779242f03d1fce38f8284b0",
+      "commits": [
+        "Import / Export 선택 컨트롤의 테마별 윤곽 개선"
+      ],
+      "source_sha": "a00fe18c701571109718aed2ec9cc68090b37066"
     }
   ]
 }
