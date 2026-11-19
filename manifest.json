@@ -108,6 +108,15 @@
         "원격접속 탭 간격 및 터미널 전체 복사 개선"
       ],
       "source_sha": "c07115e76d6bc7303153d41490806de88a00e33f"
+    },
+    {
+      "version": "261119.08v",
+      "installer_url": "https://github.com/j1hoonK/vwt-releases/releases/download/v261119.08v/VWT-Setup-261119.08v-win-x64.exe",
+      "sha256": "545fd6564713512f20f1c6147cd12f151da74c74aa32c989d157c0cd5aefb7f4",
+      "commits": [
+        "원격접속 선택 탭 디자인과 전체 복사 단축키 개선"
+      ],
+      "source_sha": "c75ecb5f22ceb044a16a6359be60a9641e53e574"
     }
   ]
 }
