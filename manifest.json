@@ -71,6 +71,16 @@
         "파일 전송 무결성 검증 순서 및 임시 파일 보호 개선"
       ],
       "source_sha": "5c67ed17d7beb72c6ffd63089ac729e9511f57b5"
+    },
+    {
+      "version": "261119.04v",
+      "installer_url": "https://github.com/j1hoonK/vwt-releases/releases/download/v261119.04v/VWT-Setup-261119.04v-win-x64.exe",
+      "sha256": "016f7681af91ca82d3ed0c08a18942c4a9e25051b69f2b9c1ed3ef1881a86aa1",
+      "commits": [
+        "파일 전송 시간 초과 및 중지 처리와 다운로드 경로 충돌 방지",
+        "파일 전송 완료 알림 및 진행률 색상과 중지 응답 개선"
+      ],
+      "source_sha": "73607463c0755dec4513ba33ce6b1f783fa09db8"
     }
   ]
 }
