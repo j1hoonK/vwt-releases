@@ -174,6 +174,15 @@
         "Import / Export 선택 컨트롤의 테마별 윤곽 개선"
       ],
       "source_sha": "a00fe18c701571109718aed2ec9cc68090b37066"
+    },
+    {
+      "version": "261119.15v",
+      "installer_url": "https://github.com/j1hoonK/vwt-releases/releases/download/v261119.15v/VWT-Setup-261119.15v-win-x64.exe",
+      "sha256": "624c01fc194f8a34d3c2f7eaa62fe3b48d29e2c878be54c9594bc1da1ad20453",
+      "commits": [
+        "데이터 이전 다크 모드 라디오 버튼 원형 윤곽 복원"
+      ],
+      "source_sha": "799f8e76b765fd2f534fa0a2b542d016df313ba1"
     }
   ]
 }
