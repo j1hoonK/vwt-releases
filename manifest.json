@@ -183,6 +183,16 @@
         "데이터 이전 다크 모드 라디오 버튼 원형 윤곽 복원"
       ],
       "source_sha": "799f8e76b765fd2f534fa0a2b542d016df313ba1"
+    },
+    {
+      "version": "261125.01v",
+      "installer_url": "https://github.com/j1hoonK/vwt-releases/releases/download/v261125.01v/VWT-Setup-261125.01v-win-x64.exe",
+      "sha256": "55296d8b8b2b25f2ffecaa6ae73ce26804a3ecde1318cac42aec3fd83032ea7f",
+      "commits": [
+        "버전 관리 최신 설치파일 다운로드 기능 추가 및 무반응 안내 개선",
+        "설치파일 중복 보관 제거로 공개 배포 저장공간 오류 해결"
+      ],
+      "source_sha": "c00617b58160c87fade9e236c0bbafe816d6ea57"
     }
   ]
 }
