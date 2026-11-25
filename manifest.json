@@ -193,6 +193,15 @@
         "설치파일 중복 보관 제거로 공개 배포 저장공간 오류 해결"
       ],
       "source_sha": "c00617b58160c87fade9e236c0bbafe816d6ea57"
+    },
+    {
+      "version": "261125.02v",
+      "installer_url": "https://github.com/j1hoonK/vwt-releases/releases/download/v261125.02v/VWT-Setup-261125.02v-win-x64.exe",
+      "sha256": "0080c15e4125d855f6a8721d699b5ab45697abda821f5d5503dde9d2a20c2db1",
+      "commits": [
+        "MAM 및 Rancher 웹 접속 바로가기 추가"
+      ],
+      "source_sha": "f1e3ef8e75a22de66c0264d5e8b4388587a08f3f"
     }
   ]
 }
