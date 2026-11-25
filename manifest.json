@@ -211,6 +211,15 @@
         "웹 접속 아이콘 표시 오류 및 배경과 간격 개선"
       ],
       "source_sha": "49931ff876bb50b98cbcf2ce64b04b8835157957"
+    },
+    {
+      "version": "261126.01v",
+      "installer_url": "https://github.com/j1hoonK/vwt-releases/releases/download/v261126.01v/VWT-Setup-261126.01v-win-x64.exe",
+      "sha256": "24ffc9d278688e808961dcc688af5f38159ef1f7658a39a841e8264e1e768dea",
+      "commits": [
+        "Linux디버그 베타 탭 및 읽기 전용 서버 진단 기능 추가"
+      ],
+      "source_sha": "98d7c58ee5c83b6f0e59c2a6ee501d51961853fa"
     }
   ]
 }
