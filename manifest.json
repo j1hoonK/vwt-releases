@@ -202,6 +202,15 @@
         "MAM 및 Rancher 웹 접속 바로가기 추가"
       ],
       "source_sha": "f1e3ef8e75a22de66c0264d5e8b4388587a08f3f"
+    },
+    {
+      "version": "261125.03v",
+      "installer_url": "https://github.com/j1hoonK/vwt-releases/releases/download/v261125.03v/VWT-Setup-261125.03v-win-x64.exe",
+      "sha256": "1545e47b0466410677917913648579b12e72e2a046783f21a9819b1db3667f5a",
+      "commits": [
+        "웹 접속 아이콘 표시 오류 및 배경과 간격 개선"
+      ],
+      "source_sha": "49931ff876bb50b98cbcf2ce64b04b8835157957"
     }
   ]
 }
