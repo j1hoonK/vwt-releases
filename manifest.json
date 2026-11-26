@@ -229,6 +229,16 @@
         "Linux디버그 휴대용 SMART 및 기간별 이력과 컨테이너 진단 추가"
       ],
       "source_sha": "009f642037c6cd94bca5d8ef7516efc8cbdf27d8"
+    },
+    {
+      "version": "261126.03v",
+      "installer_url": "https://github.com/j1hoonK/vwt-releases/releases/download/v261126.03v/VWT-Setup-261126.03v-win-x64.exe",
+      "sha256": "6a2863dc9191c0025527c52493b13344d8c98dedda0fbfa9fd410f825e1ad4ed",
+      "commits": [
+        "경량 MCP에 맞춰 VWT 개발 검증 지침 정리",
+        "Linux디버깅 화면 정리 및 SMART와 다중 다운로드 자동화"
+      ],
+      "source_sha": "68da397b8bd391e2a56a7facdd0dc6b10cdd9c30"
     }
   ]
 }
