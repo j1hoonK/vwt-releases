@@ -257,6 +257,15 @@
         "실시간 로그 다운로드 지원 및 로컬 폴더 열기 추가"
       ],
       "source_sha": "d26995fbc1ba0db3a07394599a3b56966239f180"
+    },
+    {
+      "version": "261126.06v",
+      "installer_url": "https://github.com/j1hoonK/vwt-releases/releases/download/v261126.06v/VWT-Setup-261126.06v-win-x64.exe",
+      "sha256": "f2ddb7343746bf8eb6e6dfc47e6d0b5f829e55a3ee02afb938114cdbf8695d1d",
+      "commits": [
+        "Linux디버깅 Rocky 및 Ubuntu 서버 인식 오류 수정"
+      ],
+      "source_sha": "19ff4e6d68af7df4f942739f0a6a6b686fb8d8e0"
     }
   ]
 }
