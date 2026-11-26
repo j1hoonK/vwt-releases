@@ -239,6 +239,15 @@
         "Linux디버깅 화면 정리 및 SMART와 다중 다운로드 자동화"
       ],
       "source_sha": "68da397b8bd391e2a56a7facdd0dc6b10cdd9c30"
+    },
+    {
+      "version": "261126.04v",
+      "installer_url": "https://github.com/j1hoonK/vwt-releases/releases/download/v261126.04v/VWT-Setup-261126.04v-win-x64.exe",
+      "sha256": "c6c541c4c43c078b6a14d956097531d96165a1ab5ef536ba1db8b0a3c53934c6",
+      "commits": [
+        "조회 기간 글자 잘림 개선 및 Rancher 브라우저 아이콘 적용"
+      ],
+      "source_sha": "320d363845e796004ccce179b39a5be872b85da6"
     }
   ]
 }
