@@ -220,6 +220,15 @@
         "Linux디버그 베타 탭 및 읽기 전용 서버 진단 기능 추가"
       ],
       "source_sha": "98d7c58ee5c83b6f0e59c2a6ee501d51961853fa"
+    },
+    {
+      "version": "261126.02v",
+      "installer_url": "https://github.com/j1hoonK/vwt-releases/releases/download/v261126.02v/VWT-Setup-261126.02v-win-x64.exe",
+      "sha256": "9af4652149a2ba2af41d4c9aacfbef120670b93e55bcc422fb0aa704ad726dd6",
+      "commits": [
+        "Linux디버그 휴대용 SMART 및 기간별 이력과 컨테이너 진단 추가"
+      ],
+      "source_sha": "009f642037c6cd94bca5d8ef7516efc8cbdf27d8"
     }
   ]
 }
