@@ -248,6 +248,15 @@
         "조회 기간 글자 잘림 개선 및 Rancher 브라우저 아이콘 적용"
       ],
       "source_sha": "320d363845e796004ccce179b39a5be872b85da6"
+    },
+    {
+      "version": "261126.05v",
+      "installer_url": "https://github.com/j1hoonK/vwt-releases/releases/download/v261126.05v/VWT-Setup-261126.05v-win-x64.exe",
+      "sha256": "791bd140300bd9448e68095c27372e63630e0d4cb6dad3dde46004976666d11b",
+      "commits": [
+        "실시간 로그 다운로드 지원 및 로컬 폴더 열기 추가"
+      ],
+      "source_sha": "d26995fbc1ba0db3a07394599a3b56966239f180"
     }
   ]
 }
