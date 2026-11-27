@@ -284,6 +284,15 @@
         "동시입력 활성화 시 SSH 터미널 자동 전체 선택"
       ],
       "source_sha": "0ca8fb8b8f9794d95ce69359a40ce27c372bf98d"
+    },
+    {
+      "version": "261127.03v",
+      "installer_url": "https://github.com/j1hoonK/vwt-releases/releases/download/v261127.03v/VWT-Setup-261127.03v-win-x64.exe",
+      "sha256": "8fa59fd17b5f8d371818a536c84162a6502f307e0ee7cae56a8cbf75b299d293",
+      "commits": [
+        "SSH 터미널 본문 우클릭 즉시 붙여넣기 복구"
+      ],
+      "source_sha": "9d803279b40c632abd1efae4f4c85996286aeba6"
     }
   ]
 }
