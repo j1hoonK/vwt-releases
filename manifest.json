@@ -293,6 +293,15 @@
         "SSH 터미널 본문 우클릭 즉시 붙여넣기 복구"
       ],
       "source_sha": "9d803279b40c632abd1efae4f4c85996286aeba6"
+    },
+    {
+      "version": "261127.04v",
+      "installer_url": "https://github.com/j1hoonK/vwt-releases/releases/download/v261127.04v/VWT-Setup-261127.04v-win-x64.exe",
+      "sha256": "6d6c0954a354bac48a6a1e9e38a99a30cbcf480471e27aeb7075ec6eb6a6c22f",
+      "commits": [
+        "Ribbon 커서 디자인 적용 및 터미널 포인터 잔류 개선"
+      ],
+      "source_sha": "445e3d282aba62f970e0e17a98114fdcd4dade81"
     }
   ]
 }
