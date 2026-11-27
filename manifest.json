@@ -302,6 +302,16 @@
         "Ribbon 커서 디자인 적용 및 터미널 포인터 잔류 개선"
       ],
       "source_sha": "445e3d282aba62f970e0e17a98114fdcd4dade81"
+    },
+    {
+      "version": "261127.05v",
+      "installer_url": "https://github.com/j1hoonK/vwt-releases/releases/download/v261127.05v/VWT-Setup-261127.05v-win-x64.exe",
+      "sha256": "ab0e84a0941f484d5bd4eea4f110ff06eaaccd65b49f1b11fa4992d7612a3b93",
+      "commits": [
+        "폐쇄망 Linux 진단 대체 수집 및 이상 징후 분석 개선",
+        "Linux 디버깅 결과 서버 가로 비교표 적용"
+      ],
+      "source_sha": "3eb6bc1b695b6419645e6853900cf58247d16843"
     }
   ]
 }
