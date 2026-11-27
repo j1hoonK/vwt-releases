@@ -266,6 +266,15 @@
         "Linux디버깅 Rocky 및 Ubuntu 서버 인식 오류 수정"
       ],
       "source_sha": "19ff4e6d68af7df4f942739f0a6a6b686fb8d8e0"
+    },
+    {
+      "version": "261127.01v",
+      "installer_url": "https://github.com/j1hoonK/vwt-releases/releases/download/v261127.01v/VWT-Setup-261127.01v-win-x64.exe",
+      "sha256": "452742a6404faaa5661e07638a0b4a06caa912b30ea20724e680259163242686",
+      "commits": [
+        "동일 서버 새 터미널 열기 및 분할 탭 닫기 개선"
+      ],
+      "source_sha": "0c54a9904647bf1391f73ea857b81ab193ecf908"
     }
   ]
 }
