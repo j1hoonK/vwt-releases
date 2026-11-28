@@ -330,6 +330,15 @@
         "서버 일괄등록 증분 복사 기능 추가"
       ],
       "source_sha": "6f4fcf1036335e722983785b183f56650f807cf6"
+    },
+    {
+      "version": "261128.03v",
+      "installer_url": "https://github.com/j1hoonK/vwt-releases/releases/download/v261128.03v/VWT-Setup-261128.03v-win-x64.exe",
+      "sha256": "0cb762ae7c64e879e3931212da96301527588e9977987360b5602210bc9317b3",
+      "commits": [
+        "원격접속 분할보기 탭 드래그 및 영역 간 이동 지원"
+      ],
+      "source_sha": "1b6ec57c8469357f9e54468c197e23f5af4165d1"
     }
   ]
 }
