@@ -312,6 +312,15 @@
         "Linux 디버깅 결과 서버 가로 비교표 적용"
       ],
       "source_sha": "3eb6bc1b695b6419645e6853900cf58247d16843"
+    },
+    {
+      "version": "261128.01v",
+      "installer_url": "https://github.com/j1hoonK/vwt-releases/releases/download/v261128.01v/VWT-Setup-261128.01v-win-x64.exe",
+      "sha256": "69782bc24bfcf4b25398b0c9d53b763c7a627bc0141e774e527ca190b22b33ad",
+      "commits": [
+        "Linux 디버깅 진단 정확도·수집 효율 및 이상 징후 표시 개선"
+      ],
+      "source_sha": "974bf94962f6077801246dc9025d348cd43a3ccb"
     }
   ]
 }
