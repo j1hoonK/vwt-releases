@@ -321,6 +321,15 @@
         "Linux 디버깅 진단 정확도·수집 효율 및 이상 징후 표시 개선"
       ],
       "source_sha": "974bf94962f6077801246dc9025d348cd43a3ccb"
+    },
+    {
+      "version": "261128.02v",
+      "installer_url": "https://github.com/j1hoonK/vwt-releases/releases/download/v261128.02v/VWT-Setup-261128.02v-win-x64.exe",
+      "sha256": "a7cda74f651c0aa10cac1b5a3bc61aa1b05277dcdece9b8145ed6f49df9939c4",
+      "commits": [
+        "서버 일괄등록 증분 복사 기능 추가"
+      ],
+      "source_sha": "6f4fcf1036335e722983785b183f56650f807cf6"
     }
   ]
 }
